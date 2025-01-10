@@ -1,0 +1,6 @@
+go 1.24rc1
+
+use (
+	./ebitenwrap
+	./ebitenwrapfx
+)
